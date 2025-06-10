@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: photo_WK.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Mathematical Insights into Algorithms for Optimization (MIAO)](https://jakobnordstrom.se/miao-group/) group, headed by [prof. dr. Jakob Nordström](https://jakobnordstrom.se). The MIAO group is based on both sides of the Öresund Bridge at [Lund University](https://www.lunduniversity.lu.se/), Sweden and the [University of Copenhagen](https://www.ku.dk/english/), Denmark. My research is funded by the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests include combinatorial optimization and proof logging for combinatorial optimization. In particular, goals include improving existing algorithms and designing new algorithms for pseudo-Boolean solving and pseudo-Boolean optimization, and developing proof logging for such algorithms. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Scandinavia, I was an ELLIS Excellence Fellow in the [Artificial Intelligence and Formal Methods (AI-FM) group](https://ai-fm.org/) at Radboud University, Nijmegen. Here I was supervised by [dr. Sebastian Junges](https://sjunges.github.io/) and [prof. dr. Nils Jansen](https://www.nilsjansen.org/). Here I worked on (decentralized) partially observable Markov decision processes (POMDPs) and verification of stochastic dynamical systems. 
+
